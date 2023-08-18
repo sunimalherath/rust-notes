@@ -18,4 +18,7 @@ This will create the `hello_world` executable in the `target/debug` directory
 > `$ ./hello_world`
 
 #### Build & Run in one command
-> `cargo run`
+> `$ cargo run`
+
+#### Build & Release
+> `$ cargo build --release`
